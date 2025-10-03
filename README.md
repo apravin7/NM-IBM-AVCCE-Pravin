@@ -1,2 +1,2 @@
 # NM-IBM-AVCCE-Pravin
-E-commerace cat system
+E-commerce cart system
